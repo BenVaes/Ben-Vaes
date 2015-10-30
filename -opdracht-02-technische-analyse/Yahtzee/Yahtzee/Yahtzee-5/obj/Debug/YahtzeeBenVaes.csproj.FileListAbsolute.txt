@@ -1,0 +1,6 @@
+C:\Users\Ben\Desktop\Yahtzee-volledig\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+C:\Users\Ben\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+C:\Users\Ben\Desktop\Yahtzee-volledig\Yahtzee-5\obj\Debug\Yahtzee-5.pdb
+C:\Users\Ben\Desktop\Yahtzee\Yahtzee-5\bin\Debug\Yahtzee-5.exe.config
+C:\Users\Ben\Desktop\Yahtzee\Yahtzee-5\obj\Debug\Yahtzee-5.exe
+C:\Users\Ben\Desktop\Yahtzee\Yahtzee-5\obj\Debug\Yahtzee-5.pdb

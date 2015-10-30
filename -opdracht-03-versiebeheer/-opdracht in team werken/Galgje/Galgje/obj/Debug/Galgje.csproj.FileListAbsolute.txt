@@ -1,0 +1,10 @@
+c:\users\malik\documents\visual studio 2015\Projects\Galgje\Galgje\bin\Debug\Galgje.exe.config
+C:\Users\Malik\documents\visual studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.csprojResolveAssemblyReference.cache
+C:\Users\Malik\documents\visual studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.GameView.resources
+C:\Users\Malik\documents\visual studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.InputView.resources
+C:\Users\Malik\documents\visual studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.Properties.Resources.resources
+C:\Users\Malik\documents\visual studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.csproj.GenerateResource.Cache
+C:\Users\Malik\documents\visual studio 2015\Projects\Galgje\Galgje\bin\Debug\Galgje.exe
+C:\Users\Malik\documents\visual studio 2015\Projects\Galgje\Galgje\bin\Debug\Galgje.pdb
+C:\Users\Malik\documents\visual studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.exe
+C:\Users\Malik\documents\visual studio 2015\Projects\Galgje\Galgje\obj\Debug\Galgje.pdb
